@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1022575271504",
+    "project_id": "chatappforshalgalt",
+    "storage_bucket": "chatappforshalgalt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022575271504:android:e5ef0772eb995f01477b55",
+        "android_client_info": {
+          "package_name": "com.example.shalgalt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022575271504-0sp09jpa4tbbpcedq4rls29n4q8eglak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARO41qSL_tvjyDbKWLRQtIV9uhZEeDC_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022575271504-0sp09jpa4tbbpcedq4rls29n4q8eglak.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1022575271504-7kok7effhu5af4saddnaqrmse455naud.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shalgalt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
